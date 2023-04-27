@@ -54,11 +54,9 @@ namespace AnalogClock
         static double Solve(int hours, int minutes)
         {   
             /*
-            Since an analog clock hour hand moves 0.5deg per minute (360deg/720minutes) and minutes hand moves 6deg per minute (360/60minute): 
-            1.) let us convert the user-input hours to minutes and multiply it by 5deg
-            2.) minutes does not need to be converted and multiply it by 6deg
+            The hour hand must move when the minute hand moves but relatively slower.
             */
-            double hourAngle = 0.5 * (hours * 60);
+            double hourAngle = 0.5 * (hours * 60 + minutes);
             double minuteAngle = 6 * minutes;
 
             /*
