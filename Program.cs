@@ -16,7 +16,7 @@ namespace AnalogClock
             5.) minutes must be 0 - 59 only*/
 
             int hours, minutes;
-            string contPrompt = null;
+         
             
                 while(true)
                 {
