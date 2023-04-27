@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*
+Program by Irah Faye R. Oliva
+To be submitted to Reiz Tech
+*/
+using System;
 
 namespace AnalogClock
 {
