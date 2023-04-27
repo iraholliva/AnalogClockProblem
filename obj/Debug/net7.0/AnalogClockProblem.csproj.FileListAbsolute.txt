@@ -1,0 +1,15 @@
+I:\irah\REIZ\AnalogClockProblem\bin\Debug\net7.0\AnalogClockProblem.exe
+I:\irah\REIZ\AnalogClockProblem\bin\Debug\net7.0\AnalogClockProblem.deps.json
+I:\irah\REIZ\AnalogClockProblem\bin\Debug\net7.0\AnalogClockProblem.runtimeconfig.json
+I:\irah\REIZ\AnalogClockProblem\bin\Debug\net7.0\AnalogClockProblem.dll
+I:\irah\REIZ\AnalogClockProblem\bin\Debug\net7.0\AnalogClockProblem.pdb
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\AnalogClockProblem.csproj.AssemblyReference.cache
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\AnalogClockProblem.GeneratedMSBuildEditorConfig.editorconfig
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\AnalogClockProblem.AssemblyInfoInputs.cache
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\AnalogClockProblem.AssemblyInfo.cs
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\AnalogClockProblem.csproj.CoreCompileInputs.cache
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\AnalogClockProblem.dll
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\refint\AnalogClockProblem.dll
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\AnalogClockProblem.pdb
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\AnalogClockProblem.genruntimeconfig.cache
+I:\irah\REIZ\AnalogClockProblem\obj\Debug\net7.0\ref\AnalogClockProblem.dll
